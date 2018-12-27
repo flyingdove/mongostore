@@ -12,8 +12,8 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/globalsign/mgo"
 	"github.com/gorilla/sessions"
+	mgo "gopkg.in/mgo.v2"
 )
 
 type FlashMessage struct {
