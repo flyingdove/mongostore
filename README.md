@@ -1,6 +1,10 @@
 mongostore
 ==========
 
+## This repository is minor changed from [kidstuff/mongostore](https://github.com/kidstuff/mongostore)
+
+* Usable in [gopkg.in/mgo.v2](https://gopkg.in/mgo.v2)
+
 [Gorilla's Session](http://www.gorillatoolkit.org/pkg/sessions) store implementation with MongoDB
 
 ## Requirements
